@@ -1,0 +1,45 @@
+html {
+	height: 100%;
+}
+
+body {
+	background-color: lightgrey;
+	height: 100%;
+	margin: 0;
+	padding: 0;	
+}
+
+.moving{
+	position: absolute;
+	height: 150px;
+	width: 150px;
+	background-color: orangered;
+}
+
+.fixed{
+	position: absolute;
+	height: 150px;
+	width: 150px;
+	background-color: maroon;
+}
+
+#mbox{
+	top: 220px;
+	left: 0px;
+}
+
+#box1{
+	top: 10px;
+	left: 350px;
+}
+
+#box2{
+	top: 380px;
+	/*top: 380px;*/
+	left: 350px;
+}
+
+#box3{
+	top: 200px;
+	left: 700px;
+}

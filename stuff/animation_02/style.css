@@ -1,0 +1,16 @@
+.animation{
+	position:absolute;
+	width:100px;
+	height:200px;
+	background-color:red;
+	top:500px;
+}
+
+.wall{
+	position:absolute;
+	width:200px;
+	height:200px;
+	background-color:green;
+	top:500px;
+	left:600px;
+}
